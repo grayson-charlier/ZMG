@@ -1319,7 +1319,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     width: 80px;
     height: 3px;
-    background: #f16821; }
+    background: #4D4D4D; }
   .border-primary.text-center:after {
     left: 50%;
     -webkit-transform: translateX(-50%);
