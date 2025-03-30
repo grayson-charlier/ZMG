@@ -1529,12 +1529,17 @@ h1, h2, h3, h4, h5,
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
 .logo {
-	max-height: 100px;
+	max-height: 85px;
 }
 
 	@media only screen and (max-width: 991.98px) {
 		.logo {
 			max-height: 50px !important;
+	}
+}
+	@media only screen and (max-width: 400px) {
+		.logo {
+			width: 100% !important;
 	}
 }
 
