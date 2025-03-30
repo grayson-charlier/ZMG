@@ -1,5 +1,5 @@
 contact=adops@zmg.video
-contact=http://www.ruckusfactory.com/our-story-1
+contact=https://ruckusfactory.com/#section-contact
 ManagerDomain=TVIQ.io
 inventorypartnerdomain=answermedia.com
 inventorypartnerdomain=amagi.com
